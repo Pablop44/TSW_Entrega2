@@ -202,39 +202,5 @@ margin-right: 6px;
     border-bottom-color: #CBCBCB;
 }
 
-.form-registro{
-    background-color: #999999;
-    border-radius: 15px;
-    height: 550px;
-    width: 350px;
-    display: inline-block;
-    position: relative;
-    overflow: hidden;
-    align-self: center;
-}
-
-.input {
-    border-radius: 10px;
-    background-color: #999999;
-    border-color: #C377BC;
-}
-
-
-#selectGrupo {
-    border-radius: 10px;
-    background-color: #999999;
-    border-color: #C377BC;
-
-}
-
-select option:hover {
-    box-shadow:  0 0 10px 100px #C377BC inset;
-}
-
-
-#btnRegistro:hover {
-    background-color:  #C377BC;
-    border-radius: 10px;
-}
 
   
